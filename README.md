@@ -1,3 +1,2 @@
 # coursera_learning
-new repository setup per coursera guidance
-adding a new line to commit changes
+This repository contains exercises and practice code from the IBM Data Science course.
